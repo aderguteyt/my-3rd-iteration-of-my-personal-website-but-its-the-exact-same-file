@@ -1,0 +1,130 @@
+body {
+    text-align: center;
+    margin: 0px !important;
+    font-family: 'Covered By Your Grace', cursive;
+font-family: 'Outfit', sans-serif;
+}
+
+#welcome {
+    background: linear-gradient(#ff1100 0%, #41e07e 100%);
+    padding-top: 74px;
+    padding-bottom: 5px;
+    z-index: 10px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+#name {
+    font-family: monospace;
+    font-weight: 900;
+    text-decoration: underline;
+    font-size: 40px;
+    text-shadow: 18px 20px 20px black;
+    line-height: 2;
+}
+
+#myawesomework {
+    box-shadow: inset 0px 20px 20px 0px black;
+}
+
+#prof {
+    font-size: 30px;
+    margin-top: 55px;
+}
+
+#bio {
+    background: linear-gradient(#e63e32 0%, #857e39 25%, #4ebf63 50%, #66a6d1 75%, #2e2c94 100%);
+    padding: 20px;
+}
+
+#biography {
+    font-size: 50px;
+    font-family: 'Outfit', sans-serif;
+}
+
+#para1 {
+    font-size: 25px;
+    font-family: 'Outfit', sans-serif;
+    letter-spacing: 10px;
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    background-color:#4f4f4f57;
+    position: fixed;
+    left: 0px;
+    margin-left:-15px;
+    top: 10px;
+    z-index: 10;
+    font-weight: bolder;
+    cursor:pointer;
+}
+.links a{
+    float:left;
+    color:#ffff00;
+    font-size:26px;
+    padding:20px;
+    padding-left:0px !important;
+    padding-top:7px !important;
+}
+.links a:hover{
+    text-decoration: underline;
+    font-size:35px;
+    text-shadow: 7px 5px 20px black;
+}
+#videotitle{
+    font-size:45px;
+    font-weight:bolder;
+    letter-spacing: 34px;
+}
+#videos{
+    background:linear-gradient(#ad6553 0%,#da1385 25%,#948eec 50%,#8e6930 75%,#c0510c 100%);
+    padding:20px;
+}
+#viddesc{
+    color:white;
+    word-spacing: 25px;
+    font-size:30px;
+    letter-spacing: -2.238273647362635462374526374635637347463772999px;
+}
+#worktitle{
+color:#4dbce1;
+    font-size:50px;
+    font-weight:bolder;
+}
+#worktext{
+    font-size:35px;
+}
+#ytchannel{
+    background-color: crimson;
+    padding:10px;
+    font-size:50px;
+    color:#eda694;
+    font-weight:bolder;
+}
+#ytchannel:hover{
+    color:#7f5add;
+    border:10px solid #80be1f;
+
+}
+#wikipedia{
+    margin-top: 50px;
+}
+#ocd{
+    height:500px;
+    transition:transform .2s;
+}
+#ocd:hover{
+    transform:scale(0.9)
+}
+#contacth1{
+    color:tomato;
+}
+#contact{
+    background: linear-gradient(#719969 0%, #da9694 25%, #9f4f25 50%, #06b041 75%, #58d6f1 100%);
+}
+.contactdetails h3{
+    display:inline;
+}
